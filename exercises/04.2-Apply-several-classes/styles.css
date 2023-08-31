@@ -1,9 +1,7 @@
 .card {
-	width: 150px;
-	height: 240px;
+	padding: 150px 240px;
 	border: 1px solid black;
-	text-align: center;
-	line-height: 240px;
+	background-position 24px / center;
 	border-radius: 5px;
 	font-size: 1.5rem;
 }
@@ -23,3 +21,4 @@
 	content: "♡";
 	color: red;
 }
+

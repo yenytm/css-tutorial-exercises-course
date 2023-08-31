@@ -5,4 +5,10 @@
 	font-size: 25px;
 }
 
-/* YOUR CODE BELOW THIS LINE */
+h2 {
+	font-size: 0.8em;
+}
+
+h3 {
+	font-size: 0.8rem;
+}
